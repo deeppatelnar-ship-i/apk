@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_description">Lets the offline voice assistant press buttons, scroll, type and open apps when you say a command. Everything runs on this phone; the app has no internet permission.</string>
+</resources>
